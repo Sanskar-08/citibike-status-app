@@ -29,7 +29,7 @@ if __name__ == "__main__":
         """
     <style>
     [class="main css-k1vhr4 egzxvld3"] {
-        background-color: lightblue;
+        background-color: darkblue;
     }
     
     [class="css-1g1an1w edgvbvh9"]{
